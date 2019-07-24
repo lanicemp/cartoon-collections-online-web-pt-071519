@@ -7,6 +7,7 @@ end
 
 def summon_captain_planet(veggies)
   veggies.map  {|value|  value.capitalize + "!" }
+  binding.pry 
 end
 
 
