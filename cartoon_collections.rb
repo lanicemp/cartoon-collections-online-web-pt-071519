@@ -5,7 +5,7 @@ def roll_call_dwarves(dwarves)
    puts "#{index+1}#{value}"}
 end 
 
-def summon_captain_planet
+def summon_captain_planet(veggies)
   veggies.each {|value| puts "#{value}"}
 
   
