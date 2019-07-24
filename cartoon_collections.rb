@@ -6,10 +6,10 @@ def roll_call_dwarves(dwarves)
 end 
 
 def summon_captain_planet(veggies)
-  veggies.map  {|value| puts "#{value}"}
+  veggies.map  {|value| puts "#{value.capitalize} + "!""}
 
   
-  binding.pry
+  #binding.pry
   # Your code here
 end
 
