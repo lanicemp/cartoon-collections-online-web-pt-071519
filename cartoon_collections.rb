@@ -8,7 +8,7 @@ def roll_call_dwarves(dwarves)
     yield(dwarves[i])
     i= i + 1 
   end 
-  dwarves 
+  dwarves.index 
 end 
   
 
