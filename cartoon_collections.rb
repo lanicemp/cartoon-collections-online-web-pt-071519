@@ -21,6 +21,7 @@ end
 def find_the_cheese (dif_items)
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
-  dif_items.find do 
+  dif_items.find do |item|
+    
   binding.pry
 end
