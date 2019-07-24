@@ -24,6 +24,6 @@ def find_the_cheese (dif_items)
   dif_items.find do |item|
     cheese_types.include?(item) 
     
-  binding.pry
+  #binding.pry
   end
 end
