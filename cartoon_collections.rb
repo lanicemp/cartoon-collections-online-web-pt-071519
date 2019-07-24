@@ -6,7 +6,6 @@ def roll_call_dwarves(dwarves)
   while i < dwarves.length 
     yield(dwarves[i])
     i= i + 1 
-    binding.pry 
   end 
   dwarves.index 
 end 
