@@ -22,7 +22,7 @@ def find_the_cheese (dif_items)
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
   dif_items.find do |item|
-    cheese_types.include? (item) 
+    cheese_types.include?(item) 
     
   binding.pry
   end
