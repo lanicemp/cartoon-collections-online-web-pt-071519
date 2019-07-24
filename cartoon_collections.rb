@@ -15,6 +15,7 @@ def long_planeteer_calls(elements)
     value.length > 4 
   binding.pry
 end
+end 
 
 def find_the_cheese# code an argument here
   # the array below is here to help
