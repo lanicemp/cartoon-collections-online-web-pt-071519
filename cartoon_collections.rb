@@ -7,7 +7,7 @@ end
 
 def summon_captain_planet(veggies)
   veggies == []
-  veggies.each do {|value| puts "#{value}"}
+  veggies.each  {|value| puts "#{value}"}
 
   
   binding.pry
