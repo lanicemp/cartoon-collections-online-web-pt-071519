@@ -11,6 +11,7 @@ end
 
 
 def long_planeteer_calls(elements)
+  elements.any? 
   binding.pry
 end
 
