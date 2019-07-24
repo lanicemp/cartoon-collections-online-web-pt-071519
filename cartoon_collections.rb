@@ -2,7 +2,6 @@ require "pry"
 
 def roll_call_dwarves(dwarves)
   dwarves.each_with_index.map
-  binding.pry 
   dwarves.index 
 end 
   
