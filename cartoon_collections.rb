@@ -1,4 +1,8 @@
-def roll_call_dwarves# code an argument here
+require "pry"
+
+
+def roll_call_dwarves(dwarves)
+  binding.pry 
   # Your code here
 end
 
