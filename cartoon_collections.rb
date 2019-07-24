@@ -18,7 +18,7 @@ def long_planeteer_calls(elements)
 end
 end 
 
-def find_the_cheese (dif_cheese)
+def find_the_cheese (dif_foods)
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
   binding.pry
