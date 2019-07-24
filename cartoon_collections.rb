@@ -7,7 +7,7 @@ def roll_call_dwarves(dwarves)
    # << (dwarves[i])
     i= i + 1 
 end 
-  dwarves.index 
+  dwarves.index+1 
 end 
   
 
