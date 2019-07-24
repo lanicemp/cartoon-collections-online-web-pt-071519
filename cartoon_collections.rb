@@ -1,8 +1,12 @@
 require "pry"
 
 def roll_call_dwarves(dwarves)
-  
+   i =0
+  while i < dwarves.length 
+    yield(dwarves[i])
+    i= i + 1 
   dwarves.each_with_index
+end 
   dwarves.index 
 end 
   
