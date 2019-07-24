@@ -1,7 +1,7 @@
 require "pry"
 
 def roll_call_dwarves(dwarves)
-  dwarves.each_with_index.map
+  dwarves.each_with_index
   dwarves.index 
 end 
   
