@@ -7,7 +7,7 @@ end
 
 def summon_captain_planet(veggies)
   veggies.map  {|value|  value.capitalize + "!" }
-  binding.pry 
+ # binding.pry 
 end
 
 
@@ -18,7 +18,8 @@ def long_planeteer_calls(elements)
 end
 end 
 
-def find_the_cheese# code an argument here
+def find_the_cheese (dif_cheese)
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
+  binding.pry
 end
