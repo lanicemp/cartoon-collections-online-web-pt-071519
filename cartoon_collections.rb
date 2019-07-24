@@ -13,7 +13,7 @@ end
 def long_planeteer_calls(elements)
   elements.any? do |value|
     value.length > 4 
-  binding.pry
+  #binding.pry
 end
 end 
 
