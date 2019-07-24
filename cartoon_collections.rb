@@ -7,12 +7,13 @@ end
 
 def summon_captain_planet(veggies)
   veggies == []
-  veggies.each {|value| puts "#{value}"}
+  veggies.each do {|value| puts "#{value}"}
 
   
   binding.pry
   # Your code here
 end
+end 
  
 
 def long_planeteer_calls# code an argument here
