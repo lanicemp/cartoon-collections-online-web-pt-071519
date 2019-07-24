@@ -7,7 +7,7 @@ end
 
 def summon_captain_planet(veggies)
   veggies.each {|value|
-    puts "#{value}"}
+    puts "#{value}!"}
   
   binding.pry
   # Your code here
