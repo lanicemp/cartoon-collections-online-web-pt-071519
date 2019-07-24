@@ -10,7 +10,7 @@ def summon_captain_planet(veggies)
 end
 
 
-def long_planeteer_calls(veggies)
+def long_planeteer_calls(elements)
   binding.pry
 end
 
