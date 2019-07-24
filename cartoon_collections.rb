@@ -4,7 +4,7 @@ def roll_call_dwarves(dwarves)
    i =0
   while i < dwarves.length 
     dwarves.each_with_index.map {|character, index|} 
-    << (dwarves[i])
+   # << (dwarves[i])
     i= i + 1 
 end 
   dwarves.index 
