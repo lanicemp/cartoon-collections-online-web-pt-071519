@@ -6,8 +6,9 @@ def roll_call_dwarves(dwarves)
 end 
 
 def summon_captain_planet(veggies)
-  veggies.each.capitalize {|value|
+  veggies.each. {|value|
     puts "#{value}!"}
+    food= 
   
   #binding.pry
   # Your code here
