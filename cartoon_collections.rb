@@ -8,7 +8,7 @@ end
 def summon_captain_planet(veggies)
   veggies.each. {|value| puts "#{value}!"}
     food = veggies.each. {|value| puts "#{value}!"}
-    food.capitalize
+    return food.capitalize
   
   #binding.pry
   # Your code here
