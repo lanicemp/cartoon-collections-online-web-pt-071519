@@ -2,7 +2,7 @@ require "pry"
 
 
 def roll_call_dwarves(dwarves)
-  binding.pry 
+  
   # Your code here
 end
 
