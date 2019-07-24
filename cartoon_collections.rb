@@ -7,6 +7,7 @@ end
 
 def summon_captain_planet(veggies)
   
+  
   # Your code here
 end
 
